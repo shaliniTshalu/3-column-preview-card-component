@@ -1,0 +1,56 @@
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction:row ;
+    min-height: 100vh;
+}
+.container{
+    font-size: 15px;
+    max-width: 1800px;
+    border-radius: 200px;
+     display: flex;
+    flex-wrap: wrap;
+    row-gap: 50px;
+    border-style: hidden;
+
+
+}
+.form1{
+    background-color: hsl(31, 77%, 52%);
+    max-width: 17rem;
+    min-height: 25rem;
+    padding: 2rem;
+}
+.form2{
+    background-color: hsl(184, 100%, 22%);
+    max-width: 17rem;
+    min-height: 25rem;
+    padding: 2rem;
+    
+}
+.form3{
+    background-color: hsl(179, 100%, 13%);
+    max-width: 17rem;
+    min-height: 25rem;
+    padding: 2rem;
+}
+h1{
+    color: hsl(0, 0%, 100%, 0.75);
+    font-family: 'big shoulders display', cursive;
+
+}
+P{
+    color: hsl(0, 0%, 100%, 0.75);
+    font-family: 'Lexend Deca' , sans-serif;
+    margin-top: 1rem;
+    margin-bottom: 4rem;
+}
+button{
+    color:hsl(0, 0%, 100%, 0.75) ;
+    text-align: center;
+    border: 2px solid white;
+    border-radius: 30px;
+}
+
+
